@@ -53,7 +53,7 @@ Baixe e instale o Python pelo site oficial:
 Salve o arquivo com o nome:
 
 ```text
-jogo_investigacao.py
+jogodetetive.py
 ```
 
 ---
@@ -76,13 +76,13 @@ No Windows:
 Digite o comando:
 
 ```bash
-python jogo_investigacao.py
+python jogodetetive.py
 ```
 
 ou:
 
 ```bash
-python3 jogo_investigacao.py
+python3 jogodetetive.py
 ```
 
 ---
