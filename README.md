@@ -119,11 +119,11 @@ Este projeto foi desenvolvido para demonstrar os conceitos das unidades curricul
 
 ---
 
-#  Possíveis Melhorias Futuras
+#  Desenvolvedores
 
-* Sistema de pontuação
-* Diferentes finais
-* Interface gráfica
-* Banco de dados
-* Salvamento de progresso
-* Inteligência Artificial para diálogos
+* Isabella Neris Farias 
+* Ana Beatriz da Cruz Pereira 
+* Giulia Rocha Cunha
+* Laura Marques 
+* Pedro Henrique Oliveira Rebouças 
+* Thaís da Silva dos Santos 
