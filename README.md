@@ -125,7 +125,8 @@ Este projeto foi desenvolvido para demonstrar os conceitos das unidades curricul
 * Ana Beatriz da Cruz Pereira 
 * Giulia Rocha Cunha
   https://github.com/giulialinda01
-* Laura Marques 
+* Laura Marques
+  https://github.com/lauraribeiromarques2007-hub
 * Pedro Henrique Oliveira Rebouças 
 * Thaís da Silva dos Santos
   https://github.com/Thaizsantos
