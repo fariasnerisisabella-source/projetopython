@@ -123,7 +123,8 @@ Este projeto foi desenvolvido para demonstrar os conceitos das unidades curricul
 
 * Isabella Neris Farias
   https://github.com/fariasnerisisabella-source
-* Ana Beatriz da Cruz Pereira 
+* Ana Beatriz da Cruz Pereira
+  https://github.com/anaestudos2704-lang
 * Giulia Rocha Cunha
   https://github.com/giulialinda01
 * Laura Marques
